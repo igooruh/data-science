@@ -13,7 +13,7 @@ na área de dados realiazando alguns cursos e recentemente decidi me dedicar um 
 para poder migrar de desenvolvimento de para ciência de dados, mas podendo ainda agregar os
 conhecimentos de ambos as áreas.
 
-**Hard Skills:** Python, Machine Learning, Numpy, Pandas, Node, Java, Javacript, Myqsl, Postgres, DB2, Nosql, Firabase, GIT, Deploy Heroku.
+**Hard Skills:** Python, Machine Learning, Numpy, Pandas, Node, Java, Javacript, Myqsl, Postgres, DB2, Nosql, Firebase, GIT, Deploy Heroku.
 
 **Soft Skills:** Comunicativo, trabalhar em equipe, compartilhar o que aprendo, gosto de aprender.
 
