@@ -22,5 +22,9 @@ conhecimentos de ambos as áreas.
 * [Medium](https://medium.com/@gorpedromartins)
 
 
+## Artigos:
+
+
 ## Projetos:
 Veja os projetos e artigos publicados:
+Análise exploratória dos dados Airbnb - http://bit.ly/3pzLi3i
