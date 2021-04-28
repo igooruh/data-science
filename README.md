@@ -29,3 +29,4 @@ conhecimentos de ambos as áreas.
 Veja os projetos e artigos publicados:
 
 Análise exploratória dos dados Airbnb - http://bit.ly/3pzLi3i
+Análise exploratória dos dados da Segurança Pública do Rio de Janeiro - https://bit.ly/3dYqijq
